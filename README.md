@@ -5,9 +5,6 @@ This repository hosts the resources and findings of our research on the "Novel P
 
 <h1 align="center">Novel POI Spatiotemporal Framework</h1>
 <h3 align="center">By Dwell Time and Travel Distance</h3>
-<p align="center">
-  <img src="path_to_logo_or_relevant_image" alt="Project Logo"/>
-</p>
 <div align="center">
 Contributors
 License
