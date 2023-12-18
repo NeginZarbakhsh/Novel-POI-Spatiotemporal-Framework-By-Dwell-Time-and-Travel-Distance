@@ -12,4 +12,5 @@ knime_output/: Here lies the core of our project - the KNIME framework itself. I
 
 📜 **Research Paper**:
 
-Dive into the depths of our study with the detailed research paper, "Novel POI Spatiotemporal Framework By Dwell Time and Travel Distance." It offers a comprehensive exploration of our methodologies, findings, and implications.
+Dive into the depths of our study with the detailed research paper, "Novel POI Spatiotemporal Framework By Dwell Time and Travel Distance." It offers a comprehensive exploration of our methodologies, findings, and implications. Please read it here, and use below citation:
+
