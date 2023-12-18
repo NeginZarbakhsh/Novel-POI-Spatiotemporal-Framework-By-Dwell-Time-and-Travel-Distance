@@ -7,7 +7,8 @@ Welcome to the official repository for our research: "Novel POI Spatiotemporal F
 
 📁 **Repository Contents**:
 
-**figures/:** This folder houses a comprehensive collection of figures from our paper, each elucidating key aspects of our findings.
+![Figures](figures/name_of_your_figure_file.png)
+This folder houses a comprehensive collection of figures from our paper, each elucidating key aspects of our findings.
 
 **knime_output/:** Here lies the core of our project - the KNIME framework itself. It's ready for import and use in related projects. Please note that access to the Advan dataset requires a specific request; therefore, replace it with your mobility file for data analysis. We've also included the publicly available clean census data from the US Census Bureau for your convenience.
 
