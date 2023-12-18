@@ -3,7 +3,7 @@
 
 📖 **Description**:
 
-Welcome to the official repository for our groundbreaking research: "Novel POI Spatiotemporal Framework By Dwell Time and Travel Distance." This project delves into the intricate analysis of Point of Interest (POI) data, with a keen focus on aspects such as dwell time and travel distance, utilizing the advanced capabilities of the KNIME analytical platform.
+Welcome to the official repository for our research: "Novel POI Spatiotemporal Framework By Dwell Time and Travel Distance." This research delves into the analysis of Point of Interest (POI) data, with a keen focus on aspects such as dwell time and travel distance, utilizing the advanced capabilities of the KNIME analytical platform.
 
 📁 **Repository Contents**:
 
@@ -12,5 +12,5 @@ knime_output/: Here lies the core of our project - the KNIME framework itself. I
 
 📜 **Research Paper**:
 
-Dive into the depths of our study with the detailed research paper, "Novel POI Spatiotemporal Framework By Dwell Time and Travel Distance." It offers a comprehensive exploration of our methodologies, findings, and implications. Please read it here, and use below citation:
+Dive into the depths of our study with the detailed research paper, "Novel POI Spatiotemporal Framework By Dwell Time and Travel Distance." It offers a comprehensive exploration of our methodologies, findings, and implications. Please read it here, and use the below citation:
 
